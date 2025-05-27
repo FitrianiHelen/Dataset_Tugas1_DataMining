@@ -1,0 +1,301 @@
+duration,credit_history,amount,inst_rate,personal_status,residing_since,age,job,age_bucket
+48,Pembayaran tertunda sebelumnya,5951,2,"Pria, menikah/wd",2,22,Skilled employee,Muda
+24,Kredit saat ini bagus,4870,3,"Pria, menikah",4,53,Skilled employee,Lansia
+30,Riwayat kredit kritis,5234,4,Wanita,2,28,Management,Dewasa
+12,Pembayaran tertunda sebelumnya,1295,3,"Pria, menikah/wd",1,25,Skilled employee,Muda
+48,Pembayaran tertunda sebelumnya,4308,3,"Pria, menikah/wd",4,24,Skilled employee,Muda
+24,Riwayat kredit kritis,1199,4,"Pria, menikah",4,60,Unskilled,Lansia
+24,Pembayaran tertunda sebelumnya,1282,4,"Pria, menikah/wd",2,32,Unskilled,Dewasa
+24,Pembayaran tertunda sebelumnya,12579,4,"Pria, menikah/wd",2,44,Management,Paruh Baya
+60,Kredit saat ini bagus,6836,3,"Pria, menikah",4,63,Skilled employee,Lansia
+45,Riwayat kredit kritis,4746,4,"Pria, menikah",2,25,Unskilled,Muda
+18,Pembayaran tertunda sebelumnya,2100,4,"Pria, menikah",2,37,Skilled employee,Paruh Baya
+48,Riwayat kredit kritis,6143,4,"Pria, menikah/wd",4,58,Unskilled,Lansia
+36,Kredit saat ini bagus,2225,4,"Pria, menikah",4,57,Skilled employee,Lansia
+12,Pembayaran tertunda sebelumnya,6468,2,"Pria, menikah",1,52,Management,Lansia
+36,Riwayat kredit kritis,6229,4,"Pria, menikah/wd",4,23,Unskilled,Muda
+36,Tidak ada kredit (lama),1953,4,"Pria, menikah",4,61,Management,Lansia
+48,Tidak ada kredit (lama),14421,2,"Pria, menikah",2,25,Skilled employee,Muda
+36,Pembayaran tertunda sebelumnya,1819,4,"Pria, menikah",4,37,Skilled employee,Paruh Baya
+36,Pembayaran tertunda sebelumnya,1977,4,"Pria, menikah",4,40,Management,Paruh Baya
+42,Pembayaran tertunda sebelumnya,3965,4,"Pria, menikah",3,34,Skilled employee,Dewasa
+24,Pembayaran tertunda sebelumnya,5943,1,"Pria, menikah/wd",1,44,Skilled employee,Paruh Baya
+36,Pembayaran tertunda sebelumnya,12612,1,"Pria, menikah",4,47,Skilled employee,Paruh Baya
+12,Tidak ada kredit (lama),1108,4,"Pria, menikah",3,28,Skilled employee,Dewasa
+12,Riwayat kredit kritis,797,4,"Pria, menikah/wd",3,33,Unskilled,Dewasa
+54,Tidak ada kredit (lama),15945,3,"Pria, menikah",4,58,Skilled employee,Lansia
+24,Riwayat kredit kritis,11938,2,"Pria, menikah",3,39,Management,Paruh Baya
+18,Pembayaran tepat waktu,6458,2,"Pria, menikah",4,39,Management,Paruh Baya
+36,Riwayat kredit kritis,7855,4,"Pria, menikah/wd",2,25,Skilled employee,Muda
+42,Pembayaran tertunda sebelumnya,7174,4,"Pria, menikah/wd",3,30,Management,Dewasa
+33,Riwayat kredit kritis,4281,1,"Pria, menikah/wd",4,23,Skilled employee,Muda
+21,Pembayaran tertunda sebelumnya,1835,3,"Pria, menikah/wd",2,25,Skilled employee,Muda
+18,Pembayaran tertunda sebelumnya,1924,4,"Pria, menikah/wd",3,27,Skilled employee,Dewasa
+12,Pembayaran tertunda sebelumnya,639,4,"Pria, menikah",2,30,Skilled employee,Dewasa
+12,Riwayat kredit kritis,3499,3,"Pria, menikah/wd",2,29,Skilled employee,Dewasa
+36,Kredit saat ini bagus,6887,4,"Pria, menikah",3,29,Skilled employee,Dewasa
+12,Pembayaran tertunda sebelumnya,766,4,"Pria, menikah",3,66,Unskilled,Lansia
+18,Pembayaran tertunda sebelumnya,2462,2,"Pria, menikah",2,22,Skilled employee,Muda
+12,Pembayaran tertunda sebelumnya,1282,2,"Pria, menikah/wd",4,20,Skilled employee,Muda
+18,Pembayaran tertunda sebelumnya,1131,4,"Pria, menikah/wd",2,33,Skilled employee,Dewasa
+24,Riwayat kredit kritis,1935,4,"Pria, lajang",4,31,Skilled employee,Dewasa
+15,Tidak ada kredit (lama),950,4,"Pria, menikah",3,33,Skilled employee,Dewasa
+24,Kredit saat ini bagus,2064,3,"Pria, menikah/wd",2,34,Management,Dewasa
+21,Kredit saat ini bagus,3414,2,"Pria, menikah",1,26,Skilled employee,Dewasa
+30,Pembayaran tepat waktu,7485,4,"Pria, menikah/wd",1,53,Management,Lansia
+36,Kredit saat ini bagus,9572,1,"Pria, lajang",1,28,Skilled employee,Dewasa
+36,Kredit saat ini bagus,4455,2,"Pria, lajang",2,30,Management,Dewasa
+21,Pembayaran tepat waktu,1647,4,"Pria, menikah",2,40,Unskilled,Paruh Baya
+18,Riwayat kredit kritis,884,4,"Pria, menikah",4,36,Skilled employee,Paruh Baya
+9,Pembayaran tepat waktu,5129,2,"Pria, menikah/wd",4,74,Management,Lansia
+12,Pembayaran tertunda sebelumnya,674,4,Wanita,1,20,Skilled employee,Muda
+24,Pembayaran tertunda sebelumnya,4591,2,"Pria, menikah",3,54,Management,Lansia
+48,Tidak ada kredit (lama),3844,4,"Pria, menikah",4,34,Unskilled,Dewasa
+27,Pembayaran tertunda sebelumnya,3915,4,"Pria, menikah",2,36,Skilled employee,Paruh Baya
+45,Pembayaran tertunda sebelumnya,3031,4,"Pria, menikah",4,21,Skilled employee,Muda
+9,Riwayat kredit kritis,1501,2,"Pria, menikah/wd",3,34,Management,Dewasa
+12,Pembayaran tertunda sebelumnya,951,4,"Pria, menikah/wd",4,27,Skilled employee,Dewasa
+18,Kredit saat ini bagus,4297,4,"Pria, lajang",3,40,Management,Paruh Baya
+12,Pembayaran tertunda sebelumnya,902,4,Wanita,4,21,Skilled employee,Muda
+27,Tidak ada kredit (lama),5293,2,"Pria, menikah",4,50,Skilled employee,Paruh Baya
+30,Kredit saat ini bagus,1908,4,"Pria, menikah",4,66,Management,Lansia
+48,Pembayaran tertunda sebelumnya,10961,1,"Pria, menikah",2,27,Skilled employee,Dewasa
+12,Pembayaran tertunda sebelumnya,7865,4,"Pria, menikah",4,53,Management,Lansia
+9,Pembayaran tertunda sebelumnya,1478,4,"Pria, menikah",2,22,Skilled employee,Muda
+36,Pembayaran tertunda sebelumnya,4210,4,"Pria, menikah",2,26,Skilled employee,Dewasa
+24,Pembayaran tertunda sebelumnya,1823,4,"Pria, menikah",2,30,Management,Dewasa
+6,Pembayaran tertunda sebelumnya,14555,1,"Pria, menikah",2,23,Unemployed,Muda
+21,Pembayaran tertunda sebelumnya,2767,4,"Pria, lajang",2,61,Unskilled,Lansia
+24,Pembayaran tertunda sebelumnya,915,4,"Pria, menikah/wd",2,29,Skilled employee,Dewasa
+48,Tidak ada kredit (lama),4605,3,"Pria, menikah",4,24,Skilled employee,Muda
+18,Pembayaran tertunda sebelumnya,433,3,"Pria, menikah/wd",4,22,Skilled employee,Muda
+30,Pembayaran tertunda sebelumnya,2150,4,"Pria, menikah/wd",2,24,Skilled employee,Muda
+12,Pembayaran tepat waktu,2149,4,"Pria, lajang",1,29,Skilled employee,Dewasa
+15,Pembayaran tertunda sebelumnya,802,4,"Pria, menikah",3,37,Skilled employee,Paruh Baya
+14,Pembayaran tertunda sebelumnya,8978,1,"Pria, lajang",4,45,Management,Paruh Baya
+48,Pembayaran tertunda sebelumnya,3060,4,"Pria, menikah",4,28,Skilled employee,Dewasa
+30,Pembayaran tertunda sebelumnya,11998,1,"Pria, lajang",1,34,Unskilled,Dewasa
+6,Pembayaran tertunda sebelumnya,4611,1,"Pria, menikah/wd",4,32,Skilled employee,Dewasa
+24,Kredit saat ini bagus,1024,4,Wanita,4,48,Skilled employee,Paruh Baya
+36,Pembayaran tertunda sebelumnya,9398,1,Wanita,4,28,Management,Dewasa
+48,Pembayaran tertunda sebelumnya,9960,1,"Pria, menikah/wd",2,26,Skilled employee,Dewasa
+36,Tidak ada kredit (lama),3804,4,"Pria, menikah/wd",1,42,Skilled employee,Paruh Baya
+24,Riwayat kredit kritis,1344,4,"Pria, menikah",2,37,Unskilled,Paruh Baya
+48,Riwayat kredit kritis,10127,2,"Pria, menikah",2,44,Skilled employee,Paruh Baya
+12,Pembayaran tertunda sebelumnya,727,4,Wanita,3,33,Unskilled,Dewasa
+8,Pembayaran tertunda sebelumnya,1237,3,"Pria, menikah/wd",4,24,Skilled employee,Muda
+12,Pembayaran tertunda sebelumnya,685,2,Wanita,3,25,Unskilled,Muda
+36,Pembayaran tepat waktu,2746,4,"Pria, menikah",4,31,Skilled employee,Dewasa
+30,Riwayat kredit kritis,4249,4,Wanita,2,28,Management,Dewasa
+24,Pembayaran tertunda sebelumnya,1938,4,"Pria, lajang",3,32,Skilled employee,Dewasa
+18,Riwayat kredit kritis,1864,4,"Pria, menikah/wd",2,30,Skilled employee,Dewasa
+60,Pembayaran tertunda sebelumnya,7408,4,"Pria, menikah/wd",2,24,Management,Muda
+48,Riwayat kredit kritis,11590,2,"Pria, menikah/wd",4,24,Unskilled,Muda
+24,Tidak ada kredit (lama),4110,3,"Pria, menikah",4,23,Skilled employee,Muda
+6,Riwayat kredit kritis,3384,1,"Pria, lajang",4,44,Management,Paruh Baya
+15,Pembayaran tertunda sebelumnya,1275,4,"Pria, menikah/wd",2,24,Skilled employee,Muda
+9,Riwayat kredit kritis,1136,4,"Pria, menikah",3,32,Skilled employee,Dewasa
+9,Pembayaran tertunda sebelumnya,959,1,"Pria, menikah/wd",2,29,Skilled employee,Dewasa
+12,Tidak ada kredit (lama),6199,4,"Pria, menikah",2,28,Skilled employee,Dewasa
+24,Pembayaran tertunda sebelumnya,1246,4,"Pria, menikah",2,23,Unskilled,Muda
+36,Kredit saat ini bagus,4463,4,"Pria, menikah",2,26,Management,Dewasa
+30,Pembayaran tertunda sebelumnya,2406,4,"Pria, menikah/wd",4,23,Skilled employee,Muda
+18,Pembayaran tertunda sebelumnya,2473,4,"Pria, menikah",1,25,Unemployed,Muda
+36,Pembayaran tertunda sebelumnya,3446,4,"Pria, menikah",2,42,Skilled employee,Paruh Baya
+60,Pembayaran tepat waktu,14782,3,"Pria, menikah/wd",4,60,Management,Lansia
+48,Pembayaran tepat waktu,7685,2,"Pria, menikah/wd",4,37,Skilled employee,Paruh Baya
+36,Pembayaran tertunda sebelumnya,14318,4,"Pria, menikah",2,57,Management,Lansia
+18,Pembayaran tertunda sebelumnya,12976,3,"Pria, menikah/wd",4,38,Management,Paruh Baya
+12,Pembayaran tertunda sebelumnya,1223,1,"Pria, lajang",1,46,Skilled employee,Paruh Baya
+24,Kredit saat ini bagus,8648,2,"Pria, menikah",2,27,Skilled employee,Dewasa
+24,Pembayaran tertunda sebelumnya,2039,1,Wanita,1,22,Skilled employee,Muda
+12,Riwayat kredit kritis,939,4,Wanita,2,28,Skilled employee,Dewasa
+12,Riwayat kredit kritis,2292,4,"Pria, menikah",2,42,Management,Paruh Baya
+24,Pembayaran tertunda sebelumnya,1381,4,"Pria, menikah/wd",2,35,Skilled employee,Dewasa
+12,Pembayaran tertunda sebelumnya,2579,4,"Pria, menikah",1,33,Unskilled,Dewasa
+18,Pembayaran tertunda sebelumnya,1042,4,"Pria, menikah/wd",2,33,Skilled employee,Dewasa
+12,Pembayaran tertunda sebelumnya,2762,1,"Pria, menikah/wd",2,25,Skilled employee,Muda
+18,Riwayat kredit kritis,1190,2,"Pria, menikah/wd",4,55,Unemployed,Lansia
+24,Pembayaran tertunda sebelumnya,11328,2,"Pria, menikah",3,29,Management,Dewasa
+12,Pembayaran tertunda sebelumnya,1484,2,Wanita,1,25,Skilled employee,Muda
+12,Pembayaran tepat waktu,609,4,"Pria, menikah/wd",1,26,Unemployed,Dewasa
+12,Pembayaran tertunda sebelumnya,719,4,"Pria, menikah",4,41,Unskilled,Paruh Baya
+48,Riwayat kredit kritis,5096,2,"Pria, menikah/wd",3,30,Management,Dewasa
+36,Pembayaran tertunda sebelumnya,1842,4,"Pria, menikah/wd",4,34,Skilled employee,Dewasa
+15,Kredit saat ini bagus,1512,3,Wanita,3,61,Skilled employee,Lansia
+24,Pembayaran tertunda sebelumnya,4817,2,"Pria, menikah",3,31,Skilled employee,Dewasa
+12,Pembayaran tertunda sebelumnya,3386,3,"Pria, menikah",4,35,Skilled employee,Dewasa
+24,Kredit saat ini bagus,1659,4,"Pria, menikah/wd",2,29,Unskilled,Dewasa
+24,Pembayaran tertunda sebelumnya,3092,3,Wanita,2,22,Skilled employee,Muda
+6,Pembayaran tertunda sebelumnya,448,4,"Pria, menikah/wd",4,23,Skilled employee,Muda
+9,Pembayaran tertunda sebelumnya,654,4,"Pria, menikah",3,28,Unskilled,Dewasa
+18,Riwayat kredit kritis,1245,4,Wanita,2,33,Skilled employee,Dewasa
+18,Tidak ada kredit (lama),3114,1,"Pria, menikah/wd",4,26,Skilled employee,Dewasa
+6,Kredit saat ini bagus,1209,4,"Pria, menikah",4,47,Management,Paruh Baya
+27,Tidak ada kredit (lama),8318,2,"Pria, menikah/wd",4,42,Management,Paruh Baya
+24,Pembayaran tertunda sebelumnya,2996,2,Wanita,4,20,Skilled employee,Muda
+36,Pembayaran tertunda sebelumnya,9034,4,"Pria, menikah",1,29,Management,Dewasa
+24,Pembayaran tertunda sebelumnya,3123,4,"Pria, menikah/wd",1,27,Skilled employee,Dewasa
+24,Riwayat kredit kritis,1216,4,"Pria, menikah",4,38,Skilled employee,Paruh Baya
+24,Pembayaran tertunda sebelumnya,1207,4,"Pria, menikah/wd",4,24,Skilled employee,Muda
+10,Pembayaran tertunda sebelumnya,1309,4,"Pria, menikah",4,27,Unskilled,Dewasa
+15,Pembayaran tepat waktu,6850,1,"Pria, menikah",2,34,Management,Dewasa
+12,Pembayaran tertunda sebelumnya,759,4,"Pria, menikah",2,26,Skilled employee,Dewasa
+36,Riwayat kredit kritis,7127,2,"Pria, menikah/wd",4,23,Skilled employee,Muda
+18,Pembayaran tertunda sebelumnya,3190,2,"Pria, menikah/wd",2,24,Skilled employee,Muda
+48,Tidak ada kredit (lama),7119,3,"Pria, menikah",4,53,Skilled employee,Lansia
+36,Pembayaran tertunda sebelumnya,2302,4,"Pria, lajang",4,31,Skilled employee,Dewasa
+15,Pembayaran tertunda sebelumnya,2631,2,"Pria, menikah/wd",4,28,Skilled employee,Dewasa
+21,Riwayat kredit kritis,2319,2,"Pria, lajang",1,33,Skilled employee,Dewasa
+48,Pembayaran tertunda sebelumnya,7763,4,"Pria, menikah",4,42,Management,Paruh Baya
+12,Pembayaran tertunda sebelumnya,1534,1,Wanita,1,23,Skilled employee,Muda
+30,Pembayaran tertunda sebelumnya,6350,4,"Pria, menikah",4,31,Skilled employee,Dewasa
+18,Pembayaran tertunda sebelumnya,2864,2,"Pria, menikah",1,34,Unskilled,Dewasa
+24,Kredit saat ini bagus,1333,4,"Pria, menikah",2,43,Skilled employee,Paruh Baya
+12,Pembayaran tepat waktu,626,4,"Pria, menikah/wd",4,24,Unskilled,Muda
+48,Pembayaran tertunda sebelumnya,6999,1,Wanita,1,34,Skilled employee,Dewasa
+12,Pembayaran tertunda sebelumnya,1331,2,"Pria, menikah",1,22,Skilled employee,Muda
+18,Tidak ada kredit (lama),2278,3,"Pria, menikah/wd",3,28,Skilled employee,Dewasa
+21,Tidak ada kredit (lama),5003,1,"Pria, menikah/wd",4,29,Skilled employee,Dewasa
+24,Pembayaran tepat waktu,3552,3,"Pria, menikah",4,27,Skilled employee,Dewasa
+18,Riwayat kredit kritis,1928,2,"Pria, menikah",2,31,Unskilled,Dewasa
+24,Pembayaran tepat waktu,1546,4,"Pria, menikah",4,24,Unskilled,Muda
+36,Pembayaran tertunda sebelumnya,12389,1,"Pria, menikah",4,37,Skilled employee,Paruh Baya
+12,Pembayaran tertunda sebelumnya,1372,2,"Pria, lajang",3,36,Skilled employee,Paruh Baya
+48,Pembayaran tertunda sebelumnya,6758,3,"Pria, menikah/wd",2,31,Skilled employee,Dewasa
+24,Pembayaran tertunda sebelumnya,3234,4,"Pria, menikah/wd",4,23,Unskilled,Muda
+36,Riwayat kredit kritis,2820,4,"Pria, lajang",4,27,Skilled employee,Dewasa
+18,Riwayat kredit kritis,1056,3,"Pria, menikah",3,30,Skilled employee,Dewasa
+36,Pembayaran tertunda sebelumnya,2384,4,"Pria, menikah",1,33,Unskilled,Dewasa
+18,Pembayaran tertunda sebelumnya,2039,1,"Pria, menikah/wd",4,20,Skilled employee,Muda
+18,Pembayaran tertunda sebelumnya,1217,4,Wanita,3,47,Unskilled,Paruh Baya
+12,Riwayat kredit kritis,2246,3,"Pria, menikah",3,60,Skilled employee,Lansia
+24,Pembayaran tertunda sebelumnya,2718,3,"Pria, menikah/wd",4,20,Unskilled,Muda
+24,Pembayaran tepat waktu,1358,4,"Pria, menikah",3,40,Management,Paruh Baya
+6,Pembayaran tepat waktu,931,1,"Pria, menikah/wd",1,32,Unskilled,Dewasa
+24,Pembayaran tertunda sebelumnya,1442,4,"Pria, menikah/wd",4,23,Skilled employee,Muda
+24,Tidak ada kredit (lama),4241,1,"Pria, menikah",4,36,Unskilled,Paruh Baya
+18,Riwayat kredit kritis,2775,2,"Pria, menikah",2,31,Skilled employee,Dewasa
+9,Pembayaran tertunda sebelumnya,918,4,"Pria, menikah/wd",1,30,Skilled employee,Dewasa
+24,Pembayaran tepat waktu,1837,4,"Pria, menikah/wd",4,34,Unskilled,Dewasa
+36,Pembayaran tertunda sebelumnya,3349,4,"Pria, menikah/wd",2,28,Management,Dewasa
+36,Pembayaran tertunda sebelumnya,2671,4,"Pria, menikah/wd",4,50,Skilled employee,Paruh Baya
+12,Pembayaran tertunda sebelumnya,741,4,"Pria, menikah/wd",3,22,Skilled employee,Muda
+10,Pembayaran tertunda sebelumnya,1240,1,"Pria, menikah/wd",4,48,Unskilled,Paruh Baya
+18,Kredit saat ini bagus,1808,4,"Pria, menikah/wd",1,22,Skilled employee,Muda
+30,Pembayaran tertunda sebelumnya,3441,2,"Pria, menikah/wd",4,21,Skilled employee,Muda
+18,Riwayat kredit kritis,1530,3,"Pria, menikah",2,32,Skilled employee,Dewasa
+48,Pembayaran tertunda sebelumnya,3914,4,"Pria, lajang",2,38,Skilled employee,Paruh Baya
+18,Pembayaran tertunda sebelumnya,2600,4,"Pria, menikah",4,65,Skilled employee,Lansia
+9,Pembayaran tepat waktu,1437,2,"Pria, menikah",3,29,Skilled employee,Dewasa
+18,Pembayaran tepat waktu,1553,4,"Pria, menikah",3,44,Skilled employee,Paruh Baya
+9,Pembayaran tertunda sebelumnya,1980,2,"Pria, menikah/wd",2,19,Skilled employee,Muda
+24,Pembayaran tertunda sebelumnya,1355,3,"Pria, menikah/wd",4,25,Unskilled,Muda
+42,Kredit saat ini bagus,4370,3,"Pria, menikah",2,26,Skilled employee,Dewasa
+18,Pembayaran tertunda sebelumnya,750,4,"Pria, menikah/wd",1,27,Unemployed,Dewasa
+15,Pembayaran tertunda sebelumnya,4623,3,"Pria, menikah",2,40,Management,Paruh Baya
+36,Kredit saat ini bagus,7980,4,"Pria, menikah",4,27,Skilled employee,Dewasa
+12,Pembayaran tertunda sebelumnya,1386,2,"Pria, menikah/wd",2,26,Skilled employee,Dewasa
+24,Pembayaran tertunda sebelumnya,947,4,"Pria, menikah",3,38,Skilled employee,Paruh Baya
+12,Pembayaran tertunda sebelumnya,684,4,"Pria, menikah",4,40,Unskilled,Paruh Baya
+12,Pembayaran tertunda sebelumnya,1922,4,"Pria, menikah",2,37,Unskilled,Paruh Baya
+24,Pembayaran tertunda sebelumnya,2303,4,"Pria, menikah",1,45,Skilled employee,Paruh Baya
+36,Kredit saat ini bagus,8086,2,"Pria, menikah",4,42,Management,Paruh Baya
+12,Pembayaran tertunda sebelumnya,888,4,"Pria, menikah",4,41,Unskilled,Paruh Baya
+12,Pembayaran tertunda sebelumnya,900,4,Wanita,2,23,Skilled employee,Muda
+12,Riwayat kredit kritis,4843,3,"Pria, menikah",4,43,Skilled employee,Paruh Baya
+21,Kredit saat ini bagus,2580,4,"Pria, menikah",2,41,Unskilled,Paruh Baya
+72,Pembayaran tertunda sebelumnya,5595,2,Wanita,2,24,Skilled employee,Muda
+12,Pembayaran tertunda sebelumnya,1123,4,"Pria, menikah/wd",4,29,Unskilled,Dewasa
+48,Riwayat kredit kritis,6331,4,"Pria, menikah",4,46,Skilled employee,Paruh Baya
+48,Pembayaran tertunda sebelumnya,6560,3,"Pria, menikah",2,24,Skilled employee,Muda
+12,Tidak ada kredit (lama),2969,4,"Pria, menikah/wd",3,25,Skilled employee,Muda
+6,Pembayaran tepat waktu,1198,4,"Pria, menikah/wd",4,35,Skilled employee,Dewasa
+60,Pembayaran tertunda sebelumnya,14027,4,"Pria, menikah",2,27,Management,Dewasa
+9,Tidak ada kredit (lama),1337,4,"Pria, menikah",2,34,Management,Dewasa
+6,Pembayaran tepat waktu,433,4,"Pria, menikah/wd",2,24,Skilled employee,Muda
+12,Pembayaran tertunda sebelumnya,1228,4,"Pria, menikah/wd",2,24,Unskilled,Muda
+27,Pembayaran tertunda sebelumnya,2570,3,"Pria, menikah/wd",3,21,Skilled employee,Muda
+18,Pembayaran tertunda sebelumnya,1882,4,"Pria, menikah/wd",4,25,Skilled employee,Muda
+48,Pembayaran tepat waktu,6416,4,"Pria, menikah/wd",3,59,Skilled employee,Lansia
+24,Pembayaran tertunda sebelumnya,1987,2,"Pria, menikah",4,21,Unskilled,Muda
+24,Pembayaran tertunda sebelumnya,11560,1,"Pria, menikah/wd",4,23,Management,Muda
+30,Tidak ada kredit (lama),4280,4,"Pria, menikah/wd",4,26,Unskilled,Dewasa
+12,Pembayaran tertunda sebelumnya,1274,3,"Pria, menikah/wd",1,37,Unskilled,Paruh Baya
+18,Pembayaran tertunda sebelumnya,976,1,"Pria, menikah/wd",2,23,Unskilled,Muda
+12,Kredit saat ini bagus,1555,4,"Pria, menikah",4,55,Skilled employee,Lansia
+24,Pembayaran tertunda sebelumnya,1285,4,"Pria, menikah/wd",4,32,Skilled employee,Dewasa
+15,Riwayat kredit kritis,1271,3,"Pria, menikah",4,39,Skilled employee,Paruh Baya
+12,Riwayat kredit kritis,691,4,"Pria, menikah",3,35,Skilled employee,Dewasa
+18,Riwayat kredit kritis,2124,4,"Pria, menikah/wd",4,24,Skilled employee,Muda
+21,Riwayat kredit kritis,12680,4,"Pria, menikah",4,30,Management,Dewasa
+30,Pembayaran tertunda sebelumnya,3108,2,"Pria, lajang",4,31,Unskilled,Dewasa
+36,Riwayat kredit kritis,8065,3,"Pria, menikah/wd",2,25,Management,Muda
+24,Pembayaran tertunda sebelumnya,1371,4,"Pria, menikah/wd",4,25,Skilled employee,Muda
+39,Riwayat kredit kritis,4933,2,"Pria, menikah",2,25,Skilled employee,Muda
+12,Pembayaran tertunda sebelumnya,836,4,"Pria, menikah/wd",2,23,Unskilled,Muda
+48,Kredit saat ini bagus,6224,4,"Pria, menikah",4,50,Skilled employee,Paruh Baya
+40,Riwayat kredit kritis,5998,4,"Pria, menikah",3,27,Skilled employee,Dewasa
+21,Pembayaran tertunda sebelumnya,1188,2,"Pria, menikah/wd",4,39,Skilled employee,Paruh Baya
+18,Pembayaran tertunda sebelumnya,7511,1,"Pria, menikah",4,51,Skilled employee,Lansia
+36,Pembayaran tertunda sebelumnya,9271,2,"Pria, menikah",1,24,Skilled employee,Muda
+15,Tidak ada kredit (lama),1778,2,"Pria, menikah/wd",1,26,Unemployed,Dewasa
+36,Riwayat kredit kritis,9629,4,"Pria, menikah",4,24,Skilled employee,Muda
+48,Pembayaran tertunda sebelumnya,3051,3,"Pria, menikah",4,54,Skilled employee,Lansia
+48,Pembayaran tertunda sebelumnya,3931,4,"Pria, menikah",4,46,Skilled employee,Paruh Baya
+18,Pembayaran tertunda sebelumnya,1345,4,Wanita,3,26,Skilled employee,Dewasa
+36,Pembayaran tertunda sebelumnya,2712,2,"Pria, menikah",2,41,Skilled employee,Paruh Baya
+18,Riwayat kredit kritis,3966,1,"Pria, menikah/wd",4,33,Skilled employee,Dewasa
+18,Tidak ada kredit (lama),4165,2,"Pria, menikah",2,36,Skilled employee,Paruh Baya
+36,Pembayaran tertunda sebelumnya,8335,3,"Pria, menikah",4,47,Skilled employee,Paruh Baya
+18,Pembayaran tertunda sebelumnya,1216,4,"Pria, menikah/wd",3,23,Skilled employee,Muda
+45,Tidak ada kredit (lama),11816,2,"Pria, menikah",4,29,Skilled employee,Dewasa
+15,Pembayaran tertunda sebelumnya,2327,2,"Pria, menikah/wd",3,25,Unskilled,Muda
+12,Tidak ada kredit (lama),1082,4,"Pria, menikah",4,48,Skilled employee,Paruh Baya
+36,Pembayaran tertunda sebelumnya,5179,4,"Pria, menikah",2,29,Skilled employee,Dewasa
+18,Pembayaran tertunda sebelumnya,1943,4,"Pria, menikah/wd",4,23,Skilled employee,Muda
+18,Pembayaran tertunda sebelumnya,6761,2,"Pria, menikah",4,68,Skilled employee,Lansia
+12,Pembayaran tertunda sebelumnya,709,4,"Pria, menikah",4,57,Unskilled,Lansia
+20,Riwayat kredit kritis,2235,4,Wanita,2,33,Skilled employee,Dewasa
+18,Pembayaran tepat waktu,1442,4,"Pria, menikah",4,32,Unskilled,Dewasa
+15,Pembayaran tertunda sebelumnya,3959,3,"Pria, menikah/wd",2,29,Skilled employee,Dewasa
+18,Kredit saat ini bagus,2169,4,Wanita,2,28,Skilled employee,Dewasa
+24,Pembayaran tertunda sebelumnya,2439,4,"Pria, menikah/wd",4,35,Skilled employee,Dewasa
+10,Pembayaran tertunda sebelumnya,2210,2,"Pria, menikah",2,25,Unskilled,Muda
+9,Pembayaran tertunda sebelumnya,1422,3,"Pria, menikah",2,27,Management,Dewasa
+24,Pembayaran tertunda sebelumnya,4057,3,"Pria, lajang",3,43,Skilled employee,Paruh Baya
+12,Pembayaran tertunda sebelumnya,795,4,"Pria, menikah/wd",4,53,Skilled employee,Lansia
+48,Pembayaran tertunda sebelumnya,15672,2,"Pria, menikah",2,23,Skilled employee,Muda
+18,Pembayaran tertunda sebelumnya,4153,2,"Pria, menikah",3,42,Skilled employee,Paruh Baya
+16,Riwayat kredit kritis,2625,2,"Pria, menikah",4,43,Skilled employee,Paruh Baya
+24,Riwayat kredit kritis,4736,2,"Pria, menikah/wd",4,25,Unskilled,Muda
+24,Pembayaran tepat waktu,3161,4,"Pria, menikah",2,31,Skilled employee,Dewasa
+48,Tidak ada kredit (lama),18424,1,"Pria, menikah/wd",2,32,Management,Dewasa
+6,Pembayaran tertunda sebelumnya,14896,1,"Pria, menikah",4,68,Management,Lansia
+24,Pembayaran tertunda sebelumnya,2359,1,"Pria, lajang",1,33,Skilled employee,Dewasa
+24,Pembayaran tertunda sebelumnya,3345,4,"Pria, menikah",2,39,Management,Paruh Baya
+9,Pembayaran tertunda sebelumnya,1366,3,"Pria, menikah/wd",4,22,Skilled employee,Muda
+24,Pembayaran tepat waktu,6872,2,"Pria, lajang",1,55,Skilled employee,Lansia
+12,Pembayaran tepat waktu,697,4,"Pria, menikah",2,46,Skilled employee,Paruh Baya
+48,Pembayaran tertunda sebelumnya,10297,4,"Pria, menikah",4,39,Skilled employee,Paruh Baya
+9,Pembayaran tertunda sebelumnya,1670,4,"Pria, menikah/wd",2,22,Skilled employee,Muda
+30,Kredit saat ini bagus,1919,4,"Pria, menikah",3,30,Management,Dewasa
+9,Pembayaran tertunda sebelumnya,745,3,"Pria, menikah/wd",2,28,Unskilled,Dewasa
+60,Pembayaran tertunda sebelumnya,6288,4,"Pria, menikah",4,42,Skilled employee,Paruh Baya
+24,Pembayaran tepat waktu,3349,4,"Pria, menikah",4,30,Skilled employee,Dewasa
+18,Pembayaran tertunda sebelumnya,1533,4,Wanita,1,43,Unskilled,Paruh Baya
+24,Pembayaran tertunda sebelumnya,3621,2,"Pria, menikah",4,31,Skilled employee,Dewasa
+36,Kredit saat ini bagus,2145,2,"Pria, menikah",1,24,Skilled employee,Muda
+24,Pembayaran tertunda sebelumnya,4113,3,"Pria, menikah/wd",4,28,Skilled employee,Dewasa
+36,Pembayaran tertunda sebelumnya,10974,4,"Pria, menikah/wd",2,26,Management,Dewasa
+28,Pembayaran tertunda sebelumnya,4006,3,"Pria, menikah",2,45,Unskilled,Paruh Baya
+24,Pembayaran tertunda sebelumnya,2397,3,"Pria, menikah",2,35,Skilled employee,Dewasa
+27,Riwayat kredit kritis,2520,4,"Pria, menikah",2,23,Unskilled,Muda
+24,Pembayaran tepat waktu,1193,1,"Pria, menikah/wd",4,29,Unemployed,Dewasa
+60,Pembayaran tertunda sebelumnya,7297,4,"Pria, menikah",4,36,Skilled employee,Paruh Baya
+24,Kredit saat ini bagus,2538,4,"Pria, menikah",4,47,Unskilled,Paruh Baya
+15,Pembayaran tepat waktu,1264,2,Wanita,2,25,Skilled employee,Muda
+30,Riwayat kredit kritis,8386,2,"Pria, menikah",2,49,Skilled employee,Paruh Baya
+48,Pembayaran tertunda sebelumnya,4844,3,"Pria, menikah",2,33,Management,Dewasa
+36,Pembayaran tertunda sebelumnya,8229,2,"Pria, menikah",2,26,Skilled employee,Dewasa
+45,Pembayaran tertunda sebelumnya,1845,4,"Pria, menikah",4,23,Skilled employee,Muda
